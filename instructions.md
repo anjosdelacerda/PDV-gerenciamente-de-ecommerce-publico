@@ -1,6 +1,6 @@
 # testando API PDV pelo render 
 
-Você deverá utilizar um testador de rotas utilizando o link: eight-bit-api.onrender.com 
+Você deverá utilizar um testador de rotas utilizando o link: [eight-bit-api.onrender.com](https://eight-bit-api.onrender.com) 
 
 # testando API PDV localmente (na máquina) 
 
